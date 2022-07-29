@@ -23,3 +23,5 @@ counters.forEach((counter) => {
 
   updateCounter();
 });
+
+// add a functionality which will help user type how many followers they have dynamically instead of hardcoding them
